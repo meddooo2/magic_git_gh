@@ -16,7 +16,7 @@
 		<li><h3>Dodavanje duagacko</h3></li>
 		
 		<li><a href="#">git add --all</a></li>
-		<li><a href="#">git commit  </a> otvara se vim upises poruku pa :qw</li>
+		<li><a href="#">git commit  </a> otvara se vim upises poruku pa :wq</li>
 
 		<li><h3>Skaraćeno dodavanje</h3></li> 
 		<li><a href="#">git commit  -a -m "adsadsad" </a></li>
@@ -25,6 +25,7 @@
 		<li><a href="#">git show "karakteri naziva"</a></li>
 		<li><h3>GRANANJE</h3></li>
 		<li><a href="#">git branch test </a></li>
+		<li><a href="#">git merge test </a></li>
 	</ul>
 
 
