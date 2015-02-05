@@ -31,6 +31,8 @@
 		<li><a href="#">git ***** </a></li>
 		<li><h3>VRACANJE</h3></li>
 		<li><a href="#">git  revert "id.."</a></li>
+		<li><a href="#">git  checkout --index.php  # varati verziju index fajla iz head</a></li>
+		<li><a href="#">git  checkout id... index.php  # varati verziju zavisno od id</a></li>
 	</ul>
 
 
