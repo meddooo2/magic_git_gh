@@ -30,7 +30,7 @@
 		<li><a href="#">git merge test </a></li>
 	</ul>
 
-
+jjhjhjhj
 	<h1>bash komande korisno</h1>
 	<ul>
 		<li>ls -la</li>
