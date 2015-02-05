@@ -3,33 +3,7 @@
 	<title>git</title>
 </head>
 <body>
-	<h1>Index fajlll promjena </h1>
-	<p>prvo je potrebno da kazes da si korisnik i uneses ime i email</p>
 
-	<h1>komande</h1>
-	<ul>
-		<li><a href="#">git config --global user.name "medo"</a></li>
-		<li><a href="#">git config --global user.email medd@com</a></li>
-		<li><a href="#">git init</a></li>
-		<li><a href="#">git status</a></li>
-		<li><a href="#">git log</a></li>
-		<li><h3>Dodavanje duagacko</h3></li>
-		
-		<li><a href="#">git add --all</a></li>
-		<li><a href="#">git commit  </a> otvara se vim upises poruku pa :wq</li>
-
-		<li><h3>Skaraćeno dodavanje</h3></li> 
-		<li><a href="#">git commit  -a -m "adsadsad" </a></li>
-		<li><h3>da vidis promjene</h3></li>
-		<li><a href="#">git show </a></li>
-		<li><a href="#">git show "karakteri naziva"</a></li>
-		<li><h3>GRANANJE</h3></li>
-		<li><a href="#">git branch test </a></li>
-		<li><a href="#">git branch -D test # brisanje</a></li>
-		<li><a href="#">git merge test </a></li>
-		<li><a href="#">git mergetool </a></li>
-		<li><a href="#">git ***** </a></li>
-		<li><h3>VRACANJE</h3></li>
 		<li><a href="#">git  revert "id.."</a></li>
 	</ul>
 
