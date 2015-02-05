@@ -27,7 +27,10 @@
 		<li><a href="#">git branch test </a></li>
 		<li><a href="#">git branch -D test # brisanje</a></li>
 		<li><a href="#">git merge test </a></li>
-		<li><a href="#">git merge test </a></li>
+		<li><a href="#">git mergetool </a></li>
+		<li><a href="#">git ***** </a></li>
+		<li><h3>VRACANJE</h3></li>
+		<li><a href="#">git  revert "id.."</a></li>
 	</ul>
 
 
