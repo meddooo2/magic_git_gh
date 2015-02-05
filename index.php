@@ -23,7 +23,8 @@
 		<li><h3>da vidis promjene</h3></li>
 		<li><a href="#">git show </a></li>
 		<li><a href="#">git show "karakteri naziva"</a></li>
-
+		<li><h3>GRANANJE</h3></li>
+		<li><a href="#">git branch test </a></li>
 	</ul>
 
 
