@@ -3,7 +3,7 @@
 	<title>git</title>
 </head>
 <body>
-	<h1>Index fajlll promjena</h1>
+	<h1>Index fajlll promjena </h1>
 	<p>prvo je potrebno da kazes da si korisnik i uneses ime i email</p>
 
 	<h1>komande</h1>
@@ -20,6 +20,9 @@
 
 		<li><h3>Skaraćeno dodavanje</h3></li> 
 		<li><a href="#">git commit  -a -m "adsadsad" </a></li>
+		<li><h3>da vidis promjene</h3></li>
+		<li><a href="#">git show </a></li>
+		<li><a href="#">git show "karakteri naziva"</a></li>
 
 	</ul>
 
