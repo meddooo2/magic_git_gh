@@ -25,6 +25,8 @@
 		<li><a href="#">git show "karakteri naziva"</a></li>
 		<li><h3>GRANANJE</h3></li>
 		<li><a href="#">git branch test </a></li>
+		<li><a href="#">git branch -D test # brisanje</a></li>
+		<li><a href="#">git merge test </a></li>
 		<li><a href="#">git merge test </a></li>
 	</ul>
 
