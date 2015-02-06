@@ -29,10 +29,18 @@
 		<li><a href="#">git merge test </a></li>
 		<li><a href="#">git mergetool </a></li>
 		<li><a href="#">git ***** </a></li>
-		<li><h3>VRACANJE</h3></li>
-		<li><a href="#">git  revert "id.."</a></li>
+		<li><h3>vracanje</h3></li>
+ 		<li><a href="#">git  revert "id.."   # napravice novi comit a checkout nece</a></li>
 		<li><a href="#">git  checkout --index.php  # varati verziju index fajla iz head</a></li>
 		<li><a href="#">git  checkout id... index.php  # varati verziju zavisno od id</a></li>
+		<li><a href="#">git  reset --hard</a></li>
+		<li><a href="#">git reflog # prikazuje sve sta sam radjo ne samo comite</a></li>
+		<li><h3>bisect -binarna pretraga za greskom</h3></li>
+		<li><a href="#">git bisect good id... # komit u kom sigurno nema greske</a></li>
+		<li><a href="#">git bisect bad HEAD # </a></li>
+		<li><a href="#">git bisect start # </a></li>
+		<li><a href="#">git bisect bad # ako nisi naso bug</a></li>
+
 	</ul>
 
 
